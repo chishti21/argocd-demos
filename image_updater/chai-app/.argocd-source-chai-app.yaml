@@ -1,3 +1,3 @@
 kustomize:
   images:
-  - burhanchishti/chai-devops:v3.0.0
+  - burhanchishti/chai-devops:v3.2.0
